@@ -1,3 +1,8 @@
+<br>
+<p align="center">
+  Solução desenvolvida por Orion Design.
+ <b>https://github.com/OrionDesign2015/SetupOrion</b>
+  </p>
 
 <br>
 <p align="center">
