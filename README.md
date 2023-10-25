@@ -16,11 +16,11 @@
 ## ✨ Ferramentas
 
 Com essa solução, você consegue instalar as seguintes ferramentas:
-- ⚡ <b>Chatwoot</b> -------> v3.2.0
-- ⚡ <b>Evolution API</b> ---> 1.5.4
-- ⚡ <b>Typebot</b> ---------> New: Escolha a versão
-- ⚡ <b>N8N</b> -------------> New: Escolha a versão
-- ⚡ <b>Appsmith</b> -------> Latest
+- ⚡ <b>Chatwoot</b>
+- ⚡ <b>Evolution API</b>
+- ⚡ <b>Typebot</b>
+- ⚡ <b>N8N</b>
+- ⚡ <b>Appsmith</b>
 
 ## 📌 Observação
 
