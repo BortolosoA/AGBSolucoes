@@ -3,14 +3,8 @@
 <p align="center">
   Esta é uma solução gratuita de Auto Instaladores, com o intuido de ajudar toda a comunidade a instalar as principais ferramentas do mercado de Automações/Marketing.
   <b>Você não precisa instalar todos, você poderá escolher qual das ferramentas você quer instalar.</b>
-  Desenvolvido por <b>OrionDesign</b>. Ao utilizar o mesmo, de os créditos!
 </p>
 
-<!--
-<p align="center">
-    <a href="https://www.behance.net/oriondesign_oficial"><img src="https://github.com/oriondesign2015/SetupOrion/blob/main/src/behance.png" width="20%" style="margin-right: 150px;"></a>
-    <a href="https://wa.me/+5511973052593"><img src="https://github.com/oriondesign2015/SetupOrion/blob/main/src/whatsapp.png" width="20%" style="margin-right: 150px;"></a>
-    <a href="https://www.youtube.com/oriondesign_oficial"><img src="https://github.com/oriondesign2015/SetupOrion/blob/main/src/youtube.png" width="20%"></a>
 </p>
 <br>
 -->
@@ -35,7 +29,7 @@ Com essa solução, você consegue instalar as seguintes ferramentas:
 
 Não são muitos passos para utilizar essa solução, mas é importante prestar atenção em cada detalhe para evitar ter dor de cabeça por eventuais problemas.
 
-<p><b>1a-</b> Não tenho o <b>SetupOrion</b> na minha VPS:</p>
+<p><b>1a-</b> Não tenho o <b>Setup</b> na minha VPS:</p>
 
 ```
 sudo apt upgrade -y && sudo apt update && sudo apt install -y git && git clone https://github.com/oriondesign2015/SetupOrion.git && cd SetupOrion && sudo chmod +x install.sh && ./install.sh
