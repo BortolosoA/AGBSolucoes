@@ -40,3 +40,13 @@ Não são muitos passos para utilizar essa solução, mas é importante prestar 
 sudo apt upgrade -y && sudo apt update && sudo apt install -y git && git clone https://github.com/BortolosoA/AGBSolucoes.git && cd AGBSolucoes && sudo chmod +x install.sh && ./install.sh
 ```
 
+
+### Habilitando configurações ocultas do Chatwoot
+
+```bash
+sudo -i -u postgres psql
+\c chatwoot_production
+update installation_configs set locked = false;
+\q
+```
+
