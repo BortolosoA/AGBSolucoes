@@ -50,3 +50,9 @@ update installation_configs set locked = false;
 \q
 ```
 
+# Reload systemd files
+systemctl daemon-reload
+
+# Restart the chatwoot server
+systemctl restart chatwoot.target
+
