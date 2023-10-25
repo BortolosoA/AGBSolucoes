@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  Solução desenvolvida por Orion Design.
+  <b>Apenas para estudo.</b> Solução desenvolvida por OrionDesign.
  <b>https://github.com/OrionDesign2015/SetupOrion</b>
   </p>
 
